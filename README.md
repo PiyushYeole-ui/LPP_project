@@ -62,7 +62,7 @@ python check_model.py
 🛠️ Installation
 
 1️⃣ Clone the repo
-git clone https://github.com/YOUR_USERNAME/Laptop-Price-Prediction.git
+git clone https://github.com/PiyushYeole-ui/LPP_project
 cd Laptop-Price-Prediction    
 
 2️⃣ Create Virtual Environment
@@ -106,4 +106,5 @@ Avoid pushing large artifacts/models
 
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
+
 
